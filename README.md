@@ -1,5 +1,8 @@
 # 411_Password_Manager
 
+A final project by Ka Nguyen, Phillip Budiman and Nathanial Bland for BU CS course CS411.
+
+
 ### How to run program from a clone of the GitHub repo
 
 1. Open up the folder in your IDE of choice (the one we will be using as for this tutorial is IntelliJ)
